@@ -1,7 +1,6 @@
 ### 비트 미니프로젝트
-
-### 무비렌즈
-뉴스크롤링 + 무비렌즈 데이터
+1. 무비렌즈 (평점 비슷한 영화 추천)
+2. 네이버 뉴스 크롤링
 
 ## reference
 크롤링  
@@ -18,5 +17,9 @@ https://medium.com/qandastudy/python%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD
 https://wikidocs.net/44249
 
 ## TODO
+https://medium.com/qandastudy/python%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%B4%EB%8B%A4-%EB%A6%AC%EB%B7%B0-%EB%B6%84%EC%84%9D-73b3f26e967c
+
+
+by geunho choi
 
 
