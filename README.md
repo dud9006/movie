@@ -20,7 +20,5 @@
 
 ### by [geunho choi](https://github.com/cgh2797)
 
-### 민성이형 연습장
 
-[아무거나](github/cgh2797)
 
