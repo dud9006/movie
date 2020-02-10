@@ -19,7 +19,7 @@
  2. txt파일 워드클라우드 완료
 
 ## TODO
- - 전처리 및 토큰화, 불용어사전 처리
+ - 전처리 및 토큰화, 불용어사전 처리 (그노짱꺼 파일로 금방함)
 
 ## fig
 <img src="https://github.com/dud9006/movie/blob/master/img/fig1.png" width="80%"></src>
