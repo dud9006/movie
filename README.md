@@ -22,7 +22,7 @@
  - 전처리 및 토큰화, 불용어사전 처리
 
 ## fig
-<img src="https://github.com/dud9006/movie/blob/master/img/fig1.png" width="40%"></fig 1>
+<img src="https://github.com/dud9006/movie/blob/master/img/fig1.png" width="40%"></src>
 
 
 ## 우리 공부해요
