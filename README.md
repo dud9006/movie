@@ -25,6 +25,9 @@
 ## 민성 숙제
 사회면 크롤링
 
+## 우리 공부해요
+[word2vec](https://arxiv.org/abs/1301.3781)
+
 
 ### by [geunho choi](https://github.com/cgh2797)
 
