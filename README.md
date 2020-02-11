@@ -17,6 +17,7 @@
 
 ## fig
 <img src="https://github.com/dud9006/movie/blob/master/img/fig1.png" width="80%"></src>
+
 자연어처리 안했을때의 fig
 
 ## 업무 분담
