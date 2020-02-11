@@ -14,6 +14,9 @@
 ## 실행방법
  1. news3 실행
  2. wordcloud_jy 실행
+ 
+## TIP
+csv -> txt 변환방법 = 그냥 확장자 
 
 ## fig
 <img src="https://github.com/dud9006/movie/blob/master/img/fig1.png" width="80%"></src>
