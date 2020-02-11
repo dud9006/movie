@@ -21,11 +21,11 @@ csv -> txt 변환방법 = 그냥 확장자
 ## fig
 <img src="https://github.com/dud9006/movie/blob/master/img/fig1.png" width="80%"></src>
 
-자연어처리 안했을때의 fig
+fig1 <tokenize 안했을때>
 
 <img src="https://github.com/dud9006/movie/blob/master/img/fig2.png" width="80%"></src>
 
-regex tokenize를 이용했을때 
+fig2 <regex tokenize를 이용했을때>
 
 ## 업무 분담
 최민성 : 무비렌즈 데이터 발표준비(화욜-수욜)  
