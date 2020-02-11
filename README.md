@@ -27,6 +27,11 @@ fig1 <tokenize 안했을때>
 
 fig2 <regex tokenize를 이용했을때>
 
+<img src="https://github.com/dud9006/movie/blob/master/img/fig3.png" width="80%"></src>
+
+
+fig3 <불용어 처리 후>
+
 ## 업무 분담
 최민성 : 무비렌즈 데이터 발표준비(화욜-수욜)  
 안지영 : 무비렌즈 코딩,네이버 뉴스 크롤링 코드 수정, ppt(화욜), 컴활 준비(수욜), 컴활 시험(목요일)  
