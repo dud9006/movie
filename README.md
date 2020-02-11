@@ -23,6 +23,10 @@ csv -> txt 변환방법 = 그냥 확장자
 
 자연어처리 안했을때의 fig
 
+<img src="https://github.com/dud9006/movie/blob/master/img/fig2.png" width="80%"></src>
+
+regex tokenize를 이용했을때 
+
 ## 업무 분담
 최민성 : 무비렌즈 데이터 발표준비(화욜-수욜)  
 안지영 : 네이버 뉴스 크롤링 코드 수정(화욜), 컴활 준비(수욜), 컴활 시험(목요일)  
