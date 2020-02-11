@@ -17,7 +17,7 @@
  3. nlp_gh1 
  
 ## TIP
-csv -> txt 변환방법 = 그냥 확장자 
+csv -> txt 변환방법 = 그냥 확장자 변환
 
 ## fig
 <img src="https://github.com/dud9006/movie/blob/master/img/fig1.png" width="80%"></src>
