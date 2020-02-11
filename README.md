@@ -14,6 +14,7 @@
 ## 실행방법
  1. news3 실행
  2. wordcloud_jy 실행
+ 3. nlp_gh1 
  
 ## TIP
 csv -> txt 변환방법 = 그냥 확장자 
